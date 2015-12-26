@@ -8,7 +8,7 @@ npm install
 ```
 
 # Build and Run
-browse http://localhost:3000/ after building
+browse http://localhost:3000/ after starting
 
 ## Development
 ```
