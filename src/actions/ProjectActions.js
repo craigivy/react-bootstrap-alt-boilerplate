@@ -19,7 +19,7 @@ class ProjectActions {
                     this.updateProjects(projects);
                 })
                 .catch((errorMessage) => {
-                    this.locationsFailed(errorMessage);
+                    this.projectsFailed(errorMessage);
                 });
         }
     }
